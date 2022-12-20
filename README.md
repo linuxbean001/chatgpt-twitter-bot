@@ -1,5 +1,3 @@
-# chatgpt-twitter-bot
-
 <p align="center">
   <a href="https://twitter.com/ChatGPTBot">
     <img alt="Example Twitter thread using @ChatGPTBot" src="/media/demo.jpg">
